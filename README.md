@@ -844,7 +844,8 @@ ros2 run nav2_map_server map_saver_cli -f C:\GuYeChan\Develop\ROS2\ros2_slam\src
 
 저장한 맵을 기반으로 localization / navigation launch를 실행합니다.
 
----
+<img width="1050" height="517" alt="image" src="https://github.com/user-attachments/assets/7d310a75-7960-4972-b9e5-5dd2c9041bb0" />
+https://blog.naver.com/gycej1017/224069482777
 
 ## 느낀 점
 
